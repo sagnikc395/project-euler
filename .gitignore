@@ -1,6 +1,3 @@
-node_modules/
-
-## ocaml specfic stuff
+src/a.out 
 src/*.cmi
 src/*.cmo
-src/a.out
